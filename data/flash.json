@@ -1,0 +1,32 @@
+{
+    "lists": [
+        {
+            "name": "CPSC210",
+            "list": [
+                {
+                    "front_side": "midterm grade",
+                    "name": "",
+                    "back_side": "90"
+                },
+                {
+                    "front_side": "do you work hard?",
+                    "name": "",
+                    "back_side": "no"
+                }
+            ]
+        },
+        {
+            "name": "MATH317",
+            "list": []
+        },
+        {
+            "name": "MATH300",
+            "list": []
+        },
+        {
+            "name": "PHYS100",
+            "list": []
+        }
+    ],
+    "name": "Stephen's folder"
+}
